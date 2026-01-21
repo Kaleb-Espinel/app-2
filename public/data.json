@@ -13,8 +13,8 @@
     "id": 2,
     "question": "¿Dónde nació Marie Curie?",
     "clase": "true",
-    "a1": "Polonia",
-    "a2": "Francia",
+    "a1": "Francia",
+    "a2": "Polonia",
     "a3": "Alemania",
     "a4": "Suecia",
     "correct": "Polonia"
@@ -23,9 +23,9 @@
     "id": 3,
     "question": "¿Cuál fue el descubrimiento principal de Marie Curie?",
     "clase": "true",
-    "a1": "Radio y polonio",
+    "a1": "Francio"
     "a2": "Oxígeno",
-    "a3": "Helio",
+    "a3": "Radio y polonio",
     "a4": "Neón",
     "correct": "Radio y polonio"
   },
@@ -54,9 +54,9 @@
     "question": "¿Debido a qué murió Marie Curie?",
     "clase": "true",
     "a1": "Edad Avanzada",
-    "a2": "Exposicion prolongada a la radiación",
+    "a2": "Sarampión",
     "a3": "Tuberculosis",
-    "a4": "Viruela",
+    "a4": "Exposicion prolongada a la radiación",
     "correct": "Exposicion prolongada a la radiación"
   },
   {
@@ -83,8 +83,8 @@
     "id": 9,
     "question": "¿Cuál es el aporte más famoso de Mendeléiev?",
     "clase": "true",
-    "a1": "Tabla periódica de los elementos",
-    "a2": "Teoría de la relatividad",
+    "a1": "Ley de la Física",
+    "a2": "Tabla periódica de los elementos",
     "a3": "Ley de gravedad",
     "a4": "Descubrimiento del oxígeno",
     "correct": "Tabla periódica de los elementos"
@@ -103,10 +103,10 @@
     "id": 11,
     "question": "¿Qué predijo Mendeléiev con su tabla?",
     "clase": "true",
-    "a1": "Elementos que aún no se habían descubierto",
+    "a1": "La electricidad",
     "a2": "La fórmula del agua",
     "a3": "La estructura del átomo",
-    "a4": "La electricidad",
+    "a4": "Elementos que aún no se habían descubierto",
     "correct": "Elementos que aún no se habían descubierto"
   },
   {
@@ -123,9 +123,9 @@
     "id": 13,
     "question": "¿Qué profesión tuvo Mendeléiev además de científico?",
     "clase": "true",
-    "a1": "Profesor universitario",
+    "a1": "Médico",
     "a2": "Ingeniero civil",
-    "a3": "Médico",
+    "a3": "Profesor universitario",
     "a4": "Abogado",
     "correct": "Profesor universitario"
   },
