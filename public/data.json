@@ -1,142 +1,142 @@
 [
   {
     "id": 1,
-    "question": "¿En qué año nació Francesco Redi?",
+    "question": "¿En qué año nació Marie Curie?",
     "clase": "true",
-    "a1": "1500",
-    "a2": "1626",
-    "a3": "1701",
-    "a4": "1800",
-    "correct": "1626"
+    "a1": "1867",
+    "a2": "1875",
+    "a3": "1859",
+    "a4": "1880",
+    "correct": "1867"
   },
   {
     "id": 2,
-    "question": "¿En qué país nació Francesco Redi?",
+    "question": "¿Dónde nació Marie Curie?",
     "clase": "true",
-    "a1": "Francia",
-    "a2": "España",
-    "a3": "Italia",
-    "a4": "Inglaterra",
-    "correct": "Italia"
+    "a1": "Polonia",
+    "a2": "Francia",
+    "a3": "Alemania",
+    "a4": "Suecia",
+    "correct": "Polonia"
   },
   {
     "id": 3,
-    "question": "¿Qué teoría científica cuestionó Francesco Redi?",
+    "question": "¿Cuál fue el descubrimiento principal de Marie Curie?",
     "clase": "true",
-    "a1": "Teoría celular",
-    "a2": "Teoría de la evolución",
-    "a3": "Generación espontánea",
-    "a4": "Teoría atómica",
-    "correct": "Generación espontánea"
+    "a1": "Radio y polonio",
+    "a2": "Oxígeno",
+    "a3": "Helio",
+    "a4": "Neón",
+    "correct": "Radio y polonio"
   },
   {
     "id": 4,
-    "question": "¿Qué utilizó Francesco Redi en su experimento más famoso?",
+    "question": "¿Para qué sirvió su descubrimiento del radio?",
     "clase": "true",
-    "a1": "Plantas y agua",
-    "a2": "Carne y frascos",
-    "a3": "Microscopios",
-    "a4": "Animales vivos",
-    "correct": "Carne y frascos"
+    "a1": "Para generar electricidad",
+    "a2": "Para radioterapia y estudios médicos",
+    "a3": "Para fabricar relojes",
+    "a4": "Para iluminar casas",
+    "correct": "Para radioterapia y estudios médicos"
   },
   {
     "id": 5,
-    "question": "¿Qué ocurrió en los frascos cubiertos con gasa en el experimento de Redi?",
+    "question": "¿Con quién descubrió Marie Curie el radio?",
     "clase": "true",
-    "a1": "Aparecieron gusanos",
-    "a2": "La carne desapareció",
-    "a3": "No aparecieron gusanos",
-    "a4": "Crecieron bacterias",
-    "correct": "No aparecieron gusanos"
+    "a1": "Pierre Curie",
+    "a2": "Albert Einstein",
+    "a3": "Niels Bohr",
+    "a4": "Dmitri Mendeléiev",
+    "correct": "Pierre Curie"
   },
   {
     "id": 6,
-    "question": "¿Qué demostró Francesco Redi con su experimento?",
+    "question": "¿Debido a qué murió Marie Curie?",
     "clase": "true",
-    "a1": "Que la vida surge del aire",
-    "a2": "Que los gusanos nacen de la carne",
-    "a3": "Que la vida solo puede surgir de la vida",
-    "a4": "Que la carne produce vida",
-    "correct": "Que la vida solo puede surgir de la vida"
+    "a1": "Edad Avanzada",
+    "a2": "Exposicion prolongada a la radiación",
+    "a3": "Tuberculosis",
+    "a4": "Viruela",
+    "correct": "Exposicion prolongada a la radiación"
   },
   {
     "id": 7,
-    "question": "¿Por qué Francesco Redi es importante para la ciencia?",
+    "question": "¿Cuando murió Marie Curie?",
     "clase": "true",
-    "a1": "Inventó el microscopio",
-    "a2": "Descubrió las bacterias",
-    "a3": "Introdujo el método experimental en biología",
-    "a4": "Creó la teoría celular",
-    "correct": "Introdujo el método experimental en biología"
+    "a1": "1930",
+    "a2": "1934",
+    "a3": "1800",
+    "a4": "1963",
+    "correct": "1934"
   },
   {
     "id": 8,
-    "question": "¿En qué año nació Anton van Leeuwenhoek?",
+    "question": "¿En qué año nació Dmitri Mendeléiev?",
     "clase": "true",
-    "a1": "1600",
-    "a2": "1632",
-    "a3": "1700",
-    "a4": "1750",
-    "correct": "1632"
+    "a1": "1834",
+    "a2": "1840",
+    "a3": "1820",
+    "a4": "1850",
+    "correct": "1834"
   },
   {
     "id": 9,
-    "question": "¿Cuál era la profesión original de Anton van Leeuwenhoek?",
+    "question": "¿Cuál es el aporte más famoso de Mendeléiev?",
     "clase": "true",
-    "a1": "Médico",
-    "a2": "Profesor",
-    "a3": "Comerciante de telas",
-    "a4": "Astrónomo",
-    "correct": "Comerciante de telas"
+    "a1": "Tabla periódica de los elementos",
+    "a2": "Teoría de la relatividad",
+    "a3": "Ley de gravedad",
+    "a4": "Descubrimiento del oxígeno",
+    "correct": "Tabla periódica de los elementos"
   },
   {
     "id": 10,
-    "question": "¿Qué instrumento perfeccionó Anton van Leeuwenhoek?",
+    "question": "¿Cómo organizó Mendeléiev los elementos?",
     "clase": "true",
-    "a1": "Telescopio",
-    "a2": "Termómetro",
-    "a3": "Microscopio",
-    "a4": "Barómetro",
-    "correct": "Microscopio"
+    "a1": "Por masa atómica y propiedades químicas",
+    "a2": "Por color",
+    "a3": "Por densidad",
+    "a4": "Por fecha de descubrimiento",
+    "correct": "Por masa atómica y propiedades químicas"
   },
   {
     "id": 11,
-    "question": "¿Qué observó Anton van Leeuwenhoek por primera vez?",
+    "question": "¿Qué predijo Mendeléiev con su tabla?",
     "clase": "true",
-    "a1": "Células vegetales",
-    "a2": "Átomos",
-    "a3": "Microorganismos",
-    "a4": "Virus",
-    "correct": "Microorganismos"
+    "a1": "Elementos que aún no se habían descubierto",
+    "a2": "La fórmula del agua",
+    "a3": "La estructura del átomo",
+    "a4": "La electricidad",
+    "correct": "Elementos que aún no se habían descubierto"
   },
   {
     "id": 12,
-    "question": "¿Cómo llamó Anton van Leeuwenhoek a los microorganismos que observó?",
+    "question": "¿Dónde nació Mendeléiev?",
     "clase": "true",
-    "a1": "Bacterias",
-    "a2": "Animálculos",
-    "a3": "Microbios",
-    "a4": "Células",
-    "correct": "Animálculos"
+    "a1": "Rusia",
+    "a2": "Polonia",
+    "a3": "Alemania",
+    "a4": "Francia",
+    "correct": "Rusia"
   },
   {
     "id": 13,
-    "question": "¿Con qué institución científica compartió Leeuwenhoek sus descubrimientos?",
+    "question": "¿Qué profesión tuvo Mendeléiev además de científico?",
     "clase": "true",
-    "a1": "Academia Francesa",
-    "a2": "Universidad de Oxford",
-    "a3": "Royal Society de Londres",
-    "a4": "Vaticano",
-    "correct": "Royal Society de Londres"
+    "a1": "Profesor universitario",
+    "a2": "Ingeniero civil",
+    "a3": "Médico",
+    "a4": "Abogado",
+    "correct": "Profesor universitario"
   },
   {
     "id": 14,
-    "question": "¿Por qué Anton van Leeuwenhoek es considerado el padre de la microbiología?",
+    "question": "¿Qué legado dejó Mendeléiev?",
     "clase": "true",
-    "a1": "Inventó el microscopio moderno",
-    "a2": "Descubrió los virus",
-    "a3": "Fue el primero en observar seres microscópicos",
-    "a4": "Creó la teoría celular",
-    "correct": "Fue el primero en observar seres microscópicos"
+    "a1": "Fundamento para la química moderna y la tabla periódica",
+    "a2": "Primera teoría del átomo",
+    "a3": "Descubrimiento de la penicilina",
+    "a4": "Avances en biología",
+    "correct": "Fundamento para la química moderna y la tabla periódica"
   }
 ]
